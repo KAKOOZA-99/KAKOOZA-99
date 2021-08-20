@@ -1,0 +1,75 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:orientation="vertical">
+	
+		<TableRow>
+		<TextView
+			android:text="MONDAY" />
+		<TextView
+			android:text="JAVA" />
+		<TextView
+			android:layout_marginRight="50dp"
+			android:text="APPLICATION DEVELOPMENT" />
+		
+		</TableRow>
+		<TableRow>
+			<TextView
+				android:text="TUESDAY" />
+			<TextView
+				android:text="SYSTEM ANALYSIS"/>
+			<TextView
+				android:text="JAVASCRIPT"/>
+
+		</TableRow>
+		
+		<TableRow>
+			<TextView
+				android:text="WEDNESDAY" />
+			<TextView
+				android:text="CALCULUS"/>
+			<TextView
+				android:text="APPLICATION DEVELOPMENT"/>
+
+		</TableRow>
+		
+		<TableRow>
+			<TextView
+				android:text="THURSDAY" />
+			<TextView
+				android:text="JAVASCRIPT"/>
+			<TextView
+				android:text="DBMS"/>
+
+		</TableRow>
+		<TableRow>
+			<TextView
+				android:text="FRIDAY" />
+			<TextView
+				android:text="NUMERICAL ANALYSIS"/>
+			<TextView
+				android:text="ARTIFICIAL INTELLIGENCE"/>
+
+		</TableRow>
+		<TableRow>
+			<TextView
+				android:text="SATURDAY" />
+			<TextView
+				android:text="WEBSITE DEVELOPMENT"/>
+			<TextView
+				android:text="CALCULUS"/>
+
+		</TableRow>
+		
+		<TableRow>
+			<TextView
+				android:text="SUNDAY" />
+			<TextView
+				android:text="PACKET TRACER"/>
+			<TextView
+				android:text="DBMS"/>
+
+		</TableRow>
+		
+	</TableLayout>
+
